@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addyfore&label=Profile%20views&color=0e75b6&style=flat" alt="addyfore" /> </p>
 
-- 🌱 I’m currently learning **game design with Unity**
+- 🌱 I’m currently learning **game design with Unity and GDevelop**
+- Recent project: https://liluo.io/spyoon/hurdler
 
 - 📫 How to reach me **adelineforeman976@gmail.com**
 
